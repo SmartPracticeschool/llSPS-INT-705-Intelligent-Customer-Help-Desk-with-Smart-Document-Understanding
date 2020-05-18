@@ -1,7 +1,7 @@
 # Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 Category : Artificial Intelligence 
 1. Project Summary : 
-  In this project, we use the typical customer care chatbot experience, but instead of relying on pre-determined responses,     the dialog provides a hook that can call out to other IBM Watson services for additional sources of information. In this       case, its an owner manual that has been uploaded to Watson Discovery. 
+  In this project, we use the typical customer care chatbot experience, but instead of relying on pre-determined responses,     the dialog provides a hook that can call out to other IBM Watson services for additional sources of information. In this       case, its ecobee3_userguide owner manual that has been uploaded to Watson Discovery. 
   
 2. Project Requirements :
   i) Create a customer care dialog skill in Watson Assistant.  
@@ -16,7 +16,7 @@ Category : Artificial Intelligence
   step-4: If the user asks a question that falls outside of the scope of the pre-determined question set, then a search query           is issued to the Watson Discovery service through a Watson Assistant search skill.
   
 4. Technical Requirements : 
-  i) write the code in github account and clone the repository. 
+  i) Write the code in github account and clone the repository. 
   ii) Create Watson services. 
   iii) Configure Watson Discovery.  
   iv) Configure Watson Assistant.  
@@ -35,21 +35,4 @@ Category : Artificial Intelligence
 7. Project Team: Individual project 
       Name : Sumedha Rana  
       
-8. Project Schedule : (19 days)
-Project Planning &amp; Kickoff - 1day  
-Setup the Development Environment - 1 day 
-Create IBM Cloud Account - 0.5 day 
-Create a Node_RED Starter Application - 1 day 
-Explore IBM Watson Usecases - 0.5 day  
-Introduction to Watson Assistance - 2 days  
-Introduction to Watson Discovery- 2 days 
-Getting Started with IBM Cloud Functions - 1 day  
-Create necessary IBM Cloud services - 1 day  
-Configure Watson Discovery Service - 1 day  
-Create cloud functions action - 1 day  
-Configure Watson Assistant - 1 day  
-Build Node-RED flow to integrate all services - 2 days  
-Build a web dashboard - 1 day  
-Test the Bot and capture the results - 1 day  
-Prepare the project report and upload the Node_RED flow to GitHub - 1 day 
-Create a project Demo Video and upload to youtube - 1 day
+
